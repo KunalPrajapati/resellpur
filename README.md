@@ -6,4 +6,5 @@ run -> npm i or npm install
 
 run -> npm start or npm run start
 
-This is the responsive landing page with working add to cart and remove from cart feature
+The technologies used are : React Js & Tailwind Css
+This is the responsive landing page with the working add to cart and remove from cart feature
